@@ -3,6 +3,15 @@
 ## 📌 Overview
 This project focuses on detecting fraudulent credit card transactions using a machine learning approach. A Random Forest classifier is used to identify suspicious transactions based on patterns in the data.
 
+## 📂 Dataset
+This project uses the Credit Card Fraud Detection dataset from Kaggle:
+
+🔗 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+- Contains real-world anonymized transactions  
+- Highly imbalanced dataset (fraud cases are rare)  
+- Commonly used for machine learning experiments in fraud detection  
+
 ## ⚙️ Tech Stack
 - Python
 - Pandas
